@@ -4,3 +4,5 @@ Used the modified DataFrame to create a summary table for the dataset that inclu
 -Count of unique authors within the DataFrame
 
 -Year of the earliest published book in the DataFrame
+
+-The year of the latest published book in the DataFrame
